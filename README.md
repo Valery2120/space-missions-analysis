@@ -4,9 +4,8 @@
 *(Note: Replace 'assets/dashboard-screenshot.png' with the actual path to your image if different)*
 
 ## 🔗 Links
-- **Interactive Dashboard:** [INSERT LINK TO NOVYPRO/WEB HERE]
-- **Portfolio Post:** [INSERT LINK TO MAVEN PORTFOLIO HERE]
-- **LinkedIn:** [INSERT YOUR LINKEDIN URL]
+- **Interactive Dashboard:** [LINK TO]
+- **Portfolio Post:** [LINK TO MAVEN PORTFOLIO]
 
 ---
 
@@ -43,7 +42,7 @@ For decades, space exploration was a proxy for geopolitical dominance. This proj
 ---
 
 ## 📝 Author
-**[Your Name]**
+**Valery Kniazev**
 Data Analyst | Visualization Enthusiast
 
 *Feel free to star ⭐ this repository if you find it useful!*
