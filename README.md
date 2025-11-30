@@ -1,6 +1,6 @@
 # 🚀 Cosmic Ascent: Space Missions Dashboard (1957-2022)
 
-![Dashboard Preview](assets/dashboard-screenshot.png)
+![Dashboard Preview]
 
 
 ## 🔗 Links
