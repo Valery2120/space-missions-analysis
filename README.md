@@ -1,11 +1,11 @@
 # 🚀 Cosmic Ascent: Space Missions Dashboard (1957-2022)
 
 ![Dashboard Preview](assets/dashboard-screenshot.png)
-*(Note: Replace 'assets/dashboard-screenshot.png' with the actual path to your image if different)*
+
 
 ## 🔗 Links
-- **Interactive Dashboard:** [LINK TO]
-- **Portfolio Post:** [LINK TO MAVEN PORTFOLIO]
+- **Dashboard:** [https://github.com/Valery2120/space-missions-analysis/tree/main/dashboard]
+- **Portfolio Post:** [(https://mavenshowcase.com/project/54188)]
 
 ---
 
@@ -19,8 +19,8 @@ For decades, space exploration was a proxy for geopolitical dominance. This proj
 ---
 
 ## 🛠️ Tools & Technologies
-- **Tool:** Microsoft Power BI *(change to Tableau/Excel if needed)*
-- **Data Cleaning:** Power Query / SQL
+- **Tool:** Microsoft Power BI
+- **Data Cleaning:** Power Query
 - **Visualization:** Custom Charts, Butterfly Chart, Time-series Analysis
 - **Dataset:** Maven Analytics Space Missions Dataset
 
