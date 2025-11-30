@@ -4,8 +4,8 @@
 
 
 ## 🔗 Links
-- **Dashboard:** [https://github.com/Valery2120/space-missions-analysis/tree/main/dashboard](here)
-- **Portfolio Post:** [https://mavenshowcase.com/project/54188](Maven Analytics project)
+- **Dashboard:** [here](https://github.com/Valery2120/space-missions-analysis/tree/main/dashboard)
+- **Portfolio Post:** [Maven Analytics project](https://mavenshowcase.com/project/54188)
 
 ---
 
