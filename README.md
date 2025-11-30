@@ -36,7 +36,7 @@ For decades, space exploration was a proxy for geopolitical dominance. This proj
 
 ## 📂 Repository Structure
 - `data/`: Raw dataset used for the analysis.
-- `dashboard/`: The source file (.pbix/.twbx) containing the data model and visualizations.
+- `dashboard/`: The source file (.pbix) containing the data model and visualizations.
 - `assets/`: Images and resources used in this README.
 
 ---
